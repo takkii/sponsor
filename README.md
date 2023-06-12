@@ -1,6 +1,6 @@
 ### sponsor
 
-_スポンサーになってくれた人の掲示をします。_
+_I will post the person who sponsored me._
 
 #### 2023/06/12
 
